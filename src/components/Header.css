@@ -1,0 +1,12 @@
+:local(.header) {
+  display: flex;
+  justify-content: space-between;
+  a {
+    color: red;
+    margin: 10px 50px 0px 50px;
+    text-decoration: none;
+  }
+  
+
+}
+

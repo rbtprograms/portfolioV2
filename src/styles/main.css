@@ -1,4 +1,17 @@
+@import url('https://fonts.googleapis.com/css?family=Aldrich');
+
 * {
   margin: 0px;
   box-sizing: border-box;
+  color: red;
+}
+
+h1 {
+  margin-top: 20px;
+  font-family: 'Aldrich', sans-serif;
+}
+
+body {
+  font-family: 'Courier New', Courier, monospace;
+  text-align: center;
 }
